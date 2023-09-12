@@ -1,0 +1,23 @@
+
+/* Estilos CSS personalizados */
+body {
+    background-color: #f8f9fa; /* Color de fondo suave */
+}
+.container {
+    background-color: #fff; /* Fondo blanco */
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Sombra suave */
+}
+h1 {
+    text-align: center;
+    color: #007bff; /* Color azul Bootstrap */
+}
+#locationInput {
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+}
+#getWeatherButton {
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+}
